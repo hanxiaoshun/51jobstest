@@ -1,0 +1,22 @@
+lastCity = '101010100'
+boos__uab_collina = '156620795486741397087474'
+boos__zp_stoken__ = 'de00VwBQoCLMoK536P%2FFumU4qNUBFCXpcAyMfJ5cGXqi9x83UtWu0KPoKA6rYzfLICnO%2FkLwc2MiJ8kPIVaydZbM8A%3D%3D'
+boos__c = '1566549643'
+boos__g = '-'
+boos__l = 'l=%2Fwww.zhipin.com%2F&r=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DvL1Jb43AVaKCbOtWoeZG_X47F0XBgeAYVOJIkzDQC4osAGM4N_m7VdNxW11EqxR-%26wd%3D%26eqid%3Dd4e7ec5700001922000000035d5fa689&friend_source=0'
+# __a=83934732.1566207955.1566547142.1566549643.22.3.1.22;
+#   Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1566207955,1566547144,1566547637,1566549643;
+Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a = 1566549643
+
+day = 'https://search.51job.com/list/040000,000000,0000,00,0,99,%25E5%25A4%2596%25E8%25B4%25B8,2,1.html'
+month = 'https://search.51job.com/list/040000,000000,0000,00,3,99,%25E5%25A4%2596%25E8%25B4%25B8,2,1.html'
+
+'cookie: lastCity=101010100; _uab_collina=156620795486741397087474; ' \
+'_bl_uid=mwjkqzX2pRggyOm2Xygert5b41b1;' \
+' __zp_stoken__=35adbnkFXLzWR4UX%2FJQiAGwC9VJc4tNRRwuFik224Scg4bm0vXQNoLyLhb8uDmo33sKYVN8PJUnNdp2x30WyQtS%2B1A%3D%3D;' \
+' __c=1567805186; ' \
+'__g=-;' \
+' __l=l=%2Fwww.zhipin.com%2Fweb%2Fcommon%2Fsecurity-check.html%3Fseed%3Diuh2RixqRpsXO3x9tpopUDai%252FWvXC%252F5hFFC18fxsWso%253D%26name%3D0f35c990%26ts%3D1567805186346%26callbackUrl%3D%252Fjob_detail%252F%253Fquery%253D%2525E5%2525A4%252596%2525E8%2525B4%2525B8%2526city%253D101280600%2526industry%253D%2526position%253D&r=&friend_source=0&friend_source=0;' \
+' Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1566547637,1566549643,1566646029,1567805186;' \
+' __a=83934732.1566207955.1566646029.1567805186.76.5.7.29;' \
+' Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a=1567807419'
